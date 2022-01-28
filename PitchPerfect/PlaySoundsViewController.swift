@@ -1,8 +1,7 @@
 //
 //  PlaySoundsViewController.swift
 //  PitchPerfect
-//
-//  Created by Norah Almaneea on 28/12/2020.
+
 //
 
 import UIKit

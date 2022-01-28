@@ -2,7 +2,7 @@
 //  RecordSoundsViewController.swift
 //  Record
 //
-//  Created by Norah Almaneea on 27/12/2020.
+
 //
 
 import UIKit
